@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/bd83524a-330e-4bfd-ad1e-3231362d51bc/resourceGroups/ELL887A2/providers/Microsoft.Web/sites/add-product-app",
+    "appService.deploySubpath": "."
+}
